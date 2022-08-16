@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/CASPER/AndroidStudioProjects/ToDoListApp/app/src/main/res/drawable/custom_input.xml" value="0.2265" />
+        <entry key="..\:/Users/CASPER/AndroidStudioProjects/ToDoListApp/app/src/main/res/drawable/ic_add.xml" value="0.2065" />
+        <entry key="..\:/Users/CASPER/AndroidStudioProjects/ToDoListApp/app/src/main/res/drawable/ic_check.xml" value="0.2265" />
+        <entry key="..\:/Users/CASPER/AndroidStudioProjects/ToDoListApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2555" />
+        <entry key="..\:/Users/CASPER/AndroidStudioProjects/ToDoListApp/app/src/main/res/drawable/ic_save.xml" value="0.2265" />
+        <entry key="..\:/Users/CASPER/AndroidStudioProjects/ToDoListApp/app/src/main/res/drawable/ic_search.xml" value="0.2265" />
+        <entry key="..\:/Users/CASPER/AndroidStudioProjects/ToDoListApp/app/src/main/res/drawable/item_background.xml" value="0.2435" />
+        <entry key="..\:/Users/CASPER/AndroidStudioProjects/ToDoListApp/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/CASPER/AndroidStudioProjects/ToDoListApp/app/src/main/res/layout/fragment_add.xml" value="0.25" />
+        <entry key="..\:/Users/CASPER/AndroidStudioProjects/ToDoListApp/app/src/main/res/layout/fragment_list.xml" value="0.2" />
+        <entry key="..\:/Users/CASPER/AndroidStudioProjects/ToDoListApp/app/src/main/res/layout/fragment_update.xml" value="0.25" />
+        <entry key="..\:/Users/CASPER/AndroidStudioProjects/ToDoListApp/app/src/main/res/layout/row_layout.xml" value="0.3352272727272727" />
+        <entry key="..\:/Users/CASPER/AndroidStudioProjects/ToDoListApp/app/src/main/res/menu/add_fragment_menu.xml" value="0.25" />
+        <entry key="..\:/Users/CASPER/AndroidStudioProjects/ToDoListApp/app/src/main/res/menu/list_fragment_menu.xml" value="0.20512820512820512" />
+        <entry key="..\:/Users/CASPER/AndroidStudioProjects/ToDoListApp/app/src/main/res/menu/update_fragment_menu.xml" value="0.25" />
+        <entry key="..\:/Users/CASPER/AndroidStudioProjects/ToDoListApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2555" />
+        <entry key="..\:/Users/CASPER/AndroidStudioProjects/ToDoListApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2555" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
